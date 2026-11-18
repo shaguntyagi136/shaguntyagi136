@@ -3,7 +3,7 @@
 <!-- ================================================== -->
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Shagun Tyagi profile header" />
+  <img src="./assets/header.svg" width="190" alt="Shagun Tyagi profile header" />
 </p>
 
 <div align="center">
