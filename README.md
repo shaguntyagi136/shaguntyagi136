@@ -1,16 +1,12 @@
+<!-- ================================================== -->
+<!-- SHAGUN TYAGI -->
+<!-- ================================================== -->
 
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Shagun Tyagi profile header" />
+</p>
 
-\<!-- ================================================== -->
-
-\<!-- SHAGUN TYAGI -->
-
-\<!-- ================================================== -->
-
-\<p align="center">
-&#x20; \<img src="./assets/header.svg" width="100%" alt="Mao — Dotted Cat" />
-\</p>
-
-\<div align="center">
+<div align="center">
 
 # SHAGUN TYAGI
 
@@ -20,7 +16,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/shagun-tyagi-fullstackdeveloper/) · [GitHub](https://github.com/shaguntyagi136)
 
-\</div>
+</div>
 
 ---
 
@@ -131,10 +127,17 @@ Undergraduate degree programme
 
 Interested in applied AI, machine learning, backend engineering and building meaningful software.
 
-\<p align="center">   \<a href="[https://www.linkedin.com/in/shagun-tyagi-fullstackdeveloper/](https://www.linkedin.com/in/shagun-tyagi-fullstackdeveloper/)">     \<img src="[https://img.shields.io/badge/LINKEDIN-CONNECT-2f9e6e?style=flat-square](https://img.shields.io/badge/LINKEDIN-CONNECT-2f9e6e?style=flat-square)" />   \</a>   \<a href="[https://github.com/shaguntyagi136](https://github.com/shaguntyagi136)">     \<img src="[https://img.shields.io/badge/GITHUB-EXPLORE-222222?style=flat-square&logo=github](https://img.shields.io/badge/GITHUB-EXPLORE-222222?style=flat-square\&logo=github)" />   \</a> \</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shagun-tyagi-fullstackdeveloper/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2f9e6e?style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shaguntyagi136">
+    <img src="https://img.shields.io/badge/GITHUB-EXPLORE-222222?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-\<div align="center">
+<div align="center">
 
 `END OF RECORD` / `SHAGUN.TYAGI`
 
-\</div>
+</div>
