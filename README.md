@@ -1,21 +1,140 @@
-# Hi, I'm Shagun 👋
 
-**AI/ML & Full-Stack Developer** | B.Tech CSE (AI & ML) & BS Data Science (IIT Madras)
 
-I build end-to-end intelligent systems—bridging machine learning pipelines, real-time telemetry, and responsive web interfaces.
+\<!-- ================================================== -->
+
+\<!-- SHAGUN TYAGI | PERSONAL TECHNICAL ARCHIVE -->
+
+\<!-- ================================================== -->
+
+\<p align="center">
+&#x20; \<img src="./assets/header.svg" width="100%" alt="Mao — Dotted Cat" />
+\</p>
+
+\<div align="center">
+
+# SHAGUN TYAGI
+
+**COMPUTER SCIENCE · AI / ML · SOFTWARE ENGINEERING**
+
+`ARCHIVE NO. 001` / `INDIA` / `2026`
+
+[LinkedIn](https://www.linkedin.com/in/shagun-tyagi-fullstackdeveloper/) · [GitHub](https://github.com/shaguntyagi136)
+
+\</div>
 
 ---
 
-### 🚀 Featured Projects
+### 01 / PROFILE
 
-* **[SONDER](https://github.com/yourusername/sonder)** — Sensor-based stress prediction and telemetry platform integrating ML models, MQTT messaging, and full-stack dashboards.
-* **[IEEE Research Paper Formatting System](https://github.com/yourusername/ieee-formatter)** — Web-based authoring tool built in React that automates two-column academic layouts, figures, equations, and PDF export.
-* **[Financial Fraud Detection & FinGuardian](https://github.com/yourusername/finguardian)** — Comparative analysis of ML architectures and SMOTE class-imbalance strategies across 284K+ European cardholder transactions.
-* **[Smart Resume Analyzer](https://github.com/yourusername/smart-resume-analyzer)** — NLP-driven resume screening web app using Python (`spaCy`, `NLTK`, `scikit-learn`) for ATS scoring, soft-skills extraction, and role matching.
+An undergraduate engineering student interested in building intelligent systems at the intersection of machine learning, backend engineering and software development.
+
+Currently exploring applied AI, real-time data systems, NLP and the engineering behind production-oriented applications.
+
+**Current focus:** Machine Learning · Backend AI Engineering · Intelligent Systems
 
 ---
 
-### 🛠️ Tech Stack
+### 02 / CURRENT POSITION
 
-* **Languages:** Python, Java, JavaScript (ES6+), SQL
-* **AI / Machine Learning:** 
+**BACKEND AI ENGINEER INTERN**
+
+*FlyRank AI · August 2026 – Present*
+
+Working in the backend AI engineering domain, exploring the development and integration of intelligent software systems.
+
+---
+
+### 03 / SELECTED WORKS
+
+A collection of ongoing engineering projects exploring applied machine learning, academic tooling and intelligent applications.
+
+#### 001 — MARGIN
+
+**ACADEMIC PUBLISHING / DOCUMENT ENGINEERING**
+
+A web-based academic authoring and formatting tool designed to simplify IEEE-style research paper preparation.
+
+Exploring automated document layouts, two-column formatting, figure placement, equations and PDF export.
+
+`REACT` · `JAVASCRIPT` · `DOCUMENT ENGINEERING`
+
+[View Repository](https://github.com/shaguntyagi136/Margin)
+
+---
+
+#### 002 — SONDER
+
+**WEARABLE INTELLIGENCE / IOT / MACHINE LEARNING**
+
+An IoT-based stress prediction platform designed to analyse physiological signals and identify stress patterns using machine learning.
+
+Integrates wearable sensor data, MQTT communication, Python-based inference pipelines and real-time monitoring dashboards.
+
+The current development uses the WESAD dataset, with a simulated sensor-streaming pipeline and a pathway towards real wearable integration.
+
+`PYTHON` · `MACHINE LEARNING` · `MQTT` · `FASTAPI` · `IOT`
+
+[View Repository](https://github.com/shaguntyagi136/Sonder)
+
+---
+
+#### 003 — RESUME ANALYZER
+
+**NATURAL LANGUAGE PROCESSING / INTELLIGENT RECRUITMENT**
+
+An NLP-driven application exploring automated resume analysis and candidate-role matching.
+
+Focused on resume parsing, skill extraction, ATS-oriented scoring and identifying relevant skills against job requirements.
+
+`PYTHON` · `NLP` · `SPACY` · `NLTK` · `SCIKIT-LEARN`
+
+[View Repository](https://github.com/shaguntyagi136/Resume_analyzer)
+
+---
+
+### 04 / TECHNICAL INVENTORY
+
+**PROGRAMMING LANGUAGES**
+
+Python · JavaScript · Java · SQL
+
+**MACHINE LEARNING & AI**
+
+Machine Learning · Natural Language Processing · Scikit-learn
+
+**BACKEND & DEVELOPMENT**
+
+FastAPI · React.js · REST APIs · MQTT
+
+**TOOLS & ENVIRONMENT**
+
+Git · GitHub · VS Code
+
+---
+
+### 05 / EDUCATION
+
+**ABES ENGINEERING COLLEGE**
+
+B.Tech — Computer Science and Engineering
+Specialisation: Artificial Intelligence & Machine Learning
+2024 – 2028
+
+**INDIAN INSTITUTE OF TECHNOLOGY MADRAS**
+
+BS — Data Science and Applications
+Undergraduate degree programme
+
+---
+
+### 06 / CONNECT
+
+Interested in applied AI, machine learning, backend engineering and building meaningful software.
+
+\<p align="center">   \<a href="[https://www.linkedin.com/in/shagun-tyagi-fullstackdeveloper/](https://www.linkedin.com/in/shagun-tyagi-fullstackdeveloper/)">     \<img src="[https://img.shields.io/badge/LINKEDIN-CONNECT-2f9e6e?style=flat-square](https://img.shields.io/badge/LINKEDIN-CONNECT-2f9e6e?style=flat-square)" />   \</a>   \<a href="[https://github.com/shaguntyagi136](https://github.com/shaguntyagi136)">     \<img src="[https://img.shields.io/badge/GITHUB-EXPLORE-222222?style=flat-square&logo=github](https://img.shields.io/badge/GITHUB-EXPLORE-222222?style=flat-square\&logo=github)" />   \</a> \</p>
+
+\<div align="center">
+
+`END OF RECORD` / `SHAGUN.TYAGI`
+
+\</div>
